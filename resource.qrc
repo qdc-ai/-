@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>scanlei/1.png</file>
+        <file>scanlei/2.png</file>
+        <file>scanlei/3.png</file>
+        <file>scanlei/4.png</file>
+        <file>scanlei/5.png</file>
+        <file>scanlei/6.png</file>
+        <file>scanlei/7.png</file>
+        <file>scanlei/8.png</file>
+        <file>scanlei/cool.png</file>
+        <file>scanlei/exit.png</file>
+        <file>scanlei/flag.png</file>
+        <file>scanlei/question.png</file>
+        <file>scanlei/redboom.png</file>
+        <file>scanlei/smile.png</file>
+        <file>scanlei/sob.png</file>
+        <file>scanlei/start.png</file>
+        <file>scanlei/none.png</file>
+        <file>scanlei/9.png</file>
+    </qresource>
+</RCC>
